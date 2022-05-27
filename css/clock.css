@@ -1,0 +1,9 @@
+.center-above {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    margin-bottom: -50px;
+}

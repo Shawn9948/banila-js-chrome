@@ -1,0 +1,34 @@
+.center {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#login-form input {
+    width: 270px;
+    height: 40px;
+    border: none;  
+    font-size: 30px; 
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.center button {
+    width: 100px;
+    height: 50px;
+    border: none;
+    color: teal;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#greeting {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    margin-top: -30px;
+    text-align: center;
+}
+

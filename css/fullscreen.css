@@ -1,0 +1,15 @@
+.backGround{
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.3;
+    /*이미지때문에 클릭안된것을 클릭할수있게 처리한 코드*/
+    pointer-events: none;
+}
